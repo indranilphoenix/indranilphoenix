@@ -67,7 +67,7 @@ I focus on clean architecture, DevOps automation, and delivering high‑quality 
 ## 📫 **Let’s Connect**
 
 🔗 **LinkedIn:** *Add your link*  
-🐙 **GitHub:** YOUR_GITHUB_USERNAME  
+🐙 **GitHub:** [Indranil Bera](https://github.com/indranilphoenix/)  
 📧 **Email:** *Add if you want to share*
 
 ---
