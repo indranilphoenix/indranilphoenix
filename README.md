@@ -66,9 +66,9 @@ I focus on clean architecture, DevOps automation, and delivering high‑quality 
 
 ## 📫 **Let’s Connect**
 
-🔗 **LinkedIn:** [Indranil Bera - Linkedin](https://www.linkedin.com/in/indranilbera/ )
-🐙 **GitHub:** [Indranil Bera - Github](https://github.com/indranilphoenix/)  
-📧 **Email:** [indranilmailbox@gmail.com]
+- 🔗 **LinkedIn:** [Indranil Bera - Linkedin](https://www.linkedin.com/in/indranilbera/ )
+- 🐙 **GitHub:** [Indranil Bera - Github](https://github.com/indranilphoenix/)  
+- 📧 **Email:** indranilmailbox@gmail.com
 
 ---
 
