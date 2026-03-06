@@ -3,19 +3,9 @@
 ### 🚀 *Senior Full‑Stack Software Developer | .NET | Angular | Azure | Cloud‑Native Architect*
 
 ---
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 👨‍💻 **About Me**
@@ -48,16 +38,12 @@ I focus on clean architecture, DevOps automation, and delivering high‑quality 
 
 ## 🔧 **Tools & Technologies**
 
-<p align="left">
-  https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-  https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-  https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white
-  https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white
-  https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white
-  https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white
-  https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
