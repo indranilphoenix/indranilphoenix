@@ -1,72 +1,96 @@
-🌟 Hi there, I'm Indranil Bera!
-🚀 Senior Full‑Stack Software Developer | .NET | Angular | Azure | Cloud‑Native Enthusiast
 
+# 🌟 **Hi there, I'm Indranil Bera!**  
+### 🚀 *Senior Full‑Stack Software Developer | .NET | Angular | Azure | Cloud‑Native Architect*
 
+---
+
+<p align="center">
   https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight
+</p>
 
+---
 
-🧑‍💻 About Me
-I am a Senior Fullstack Software Developer with strong expertise in designing, developing, and deploying scalable enterprise applications. My work spans across .NET, Angular, and a wide ecosystem of Azure cloud services. I am passionate about building high‑quality software, crafting clean architecture, and driving engineering best practices within teams.
+## 👨‍💻 **About Me**
 
-🚀 Tech Stack & Skills
-🔹 Languages & Frameworks
+I’m a **Senior Fullstack Software Developer** with strong expertise in building scalable, maintainable, and modern enterprise applications using **Microsoft technologies and Azure Cloud**.  
+I focus on clean architecture, DevOps automation, and delivering high‑quality engineering outcomes.
 
-C#, .NET, .NET Core
-Angular, TypeScript, JavaScript
+---
 
-🔹 Cloud & DevOps
+## 🚀 **Tech Stack & Expertise**
 
-Microsoft Azure (App Services, Log Analytics, ACR, Blob Storage, Azure Search, Azure OpenAI)
-CI/CD with Azure DevOps
-Docker & Kubernetes (AKS)
+### 🔹 **Languages & Frameworks**
+- C#, .NET, .NET Core  
+- Angular, TypeScript, JavaScript  
 
-🔹 Software Engineering Practices
+### 🔹 **Cloud & DevOps**
+- Azure (App Service, Blob Storage, ACR, Log Analytics, Azure Search, Azure OpenAI)  
+- Azure DevOps CI/CD (build & release pipelines)  
+- Docker & Kubernetes (AKS)  
 
-Clean Architecture, SOLID Principles
-High‑maintainability & testable code
-Design Patterns & architectural planning
-Code reviews & quality improvements
-Technical documentation
+### 🔹 **Software Engineering Practices**
+- Clean Architecture, SOLID Principles  
+- High‑maintainability & testable code  
+- Design patterns & architectural planning  
+- Technical backlog grooming & story slicing  
+- Requirement gathering & documentation  
+- Clean code reviews  
 
+---
 
-🔧 Tools & Technologies
+## 🔧 **Tools & Technologies**
 
+<p align="left">
   https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
   https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
   https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
   https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white
   https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white
   https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white
-  https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white
+  https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white
   https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+</p>
 
+---
 
-📈 GitHub Stats
+## 📈 **GitHub Stats**
 
+<p align="center">
   https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight
+</p>
+
+<p align="center">
   https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight
+</p>
 
+---
 
-📌 What I’m Currently Focusing On
+## 🔥 **Current Focus**
+- Cloud‑native architecture  
+- Intelligent search using Azure OpenAI + Azure Search  
+- Improving CI/CD automation & release workflows  
+- Building scalable distributed systems  
+- Enhancing engineering excellence within teams  
 
-Building cloud‑native and distributed systems
-Improving CI/CD automation across teams
-Exploring Azure OpenAI and intelligent search solutions
-Architecture evolution & technical leadership
+---
 
+## 💡 **What I Bring**
+- Strong problem‑solving & architectural thinking  
+- Clean, maintainable, high‑quality design  
+- Leadership in backlog grooming & story slicing  
+- Passion for continuous learning & cross‑team collaboration  
 
-✨ What I Bring to the Table
+---
 
-Strong problem‑solving mindset
-Clean, maintainable, well‑architected solutions
-Technical grooming, requirement analysis, and story slicing
-Passion for continuous learning & mentorship
+## 📫 **Let’s Connect**
 
+🔗 **LinkedIn:** *Add your link*  
+🐙 **GitHub:** YOUR_GITHUB_USERNAME  
+📧 **Email:** *Add if you want to share*
 
-📫 Let’s Connect
-📧 Email: add yours if you want
-🔗 LinkedIn: your link here
-🐙 GitHub: your username
+---
 
-⭐ Like My Work?
-If you find this profile interesting, consider giving ⭐ to my repositories!
+## ⭐ **Support My Work**
+
+If you find my projects useful, consider giving them a ⭐!
+
